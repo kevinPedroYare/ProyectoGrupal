@@ -39,8 +39,8 @@
 </tr>
 <tr><td colspan="3">Integrantes:
 <ul>
-<li>.....</li>
-<li>Kevin Pedro Yare Chulunquia</li>
+<li>Gallegos Condori Anette Isabel</li>
+<li>Yare Chulunquia Kevin Pedro</li>
     
 </ul>
 </td>
@@ -64,12 +64,18 @@
     - Cuenta de Kevin Pedro Yare Chulunquia
       ![imagen](https://user-images.githubusercontent.com/83080715/236685446-9ee57f7d-b8b8-4f79-a321-11e2001a43d2.png)
       
-    - Cuenta de ......
+    - Cuenta de Anette Isabel Gallegos Condori
+      ![imagen](https://user-images.githubusercontent.com/83080715/236703352-3f54b5d9-845a-408d-81b2-81d0072284bf.png)
+
 - Crear proyecto personal con los 3 ejercicios resueltos
     - Repositorio de Kevin Pedro Yare Chulunquia
       ![imagen](https://user-images.githubusercontent.com/83080715/236685503-1ec2fa55-f19c-4205-872f-8f5e516d3d02.png)
       https://github.com/kevinPedroYare/proyectoPersonal.git
-    - Repositorio de .....
+      
+    - Repositorio de Anette Isabel Gallegos Condori
+      ![imagen](https://user-images.githubusercontent.com/83080715/236703370-bd1e7249-44a5-49c7-9659-b6d304497b2b.png)
+      https://github.com/Anette-Gallegos/proyectoPersonal.git
+
 - Proyecto Grupal Colaborativo
 
     https://github.com/kevinPedroYare/ProyectoGrupal.git
