@@ -32,7 +32,7 @@
 <tr><td>ASIGNATURA:</td><td colspan="5">ESTRUCTURA DE DATOS Y ALGORITMOS</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Revisión de elementos de programación (Parte I)</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
 <td>FECHA DE PRESENTACION:</td><td>07-May-2023</td><td>HORA DE PRESENTACION:</td><td colspan="3">17:00</td>
@@ -58,10 +58,19 @@
 
 # Solución y resultados
 
-## I.		SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-    
-       
+## I.	SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 
+- Crear una cuenta github:
+    - Cuenta de Kevin Pedro Yare Chulunquia
+      ![imagen](https://user-images.githubusercontent.com/83080715/236685446-9ee57f7d-b8b8-4f79-a321-11e2001a43d2.png)
+      
+    - Cuenta de ......
+- Crear proyecto personal con los 3 ejercicios resueltos
+    - Repositorio de Kevin Pedro Yare Chulunquia
+      ![imagen](https://user-images.githubusercontent.com/83080715/236685503-1ec2fa55-f19c-4205-872f-8f5e516d3d02.png)
+      https://github.com/kevinPedroYare/proyectoPersonal.git
+    - Repositorio de .....
+- Proyecto Grupal Colaborativo
 
 ## II.	SOLUCIÓN DE CUESTIONARIO
 
