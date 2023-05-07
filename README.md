@@ -76,10 +76,15 @@
 ## II.	SOLUCIÓN DE CUESTIONARIO
 
 - ¿Por qué Git y GitHub son herramientas importantes para el curso?
+
     Son herramientas que nos ayudará a “guardar” y controlar nuestros archivos cada vez que hagamos un cambio y también como forma de ayuda en trabajos           grupales ya que hay ramas que se puede crear para tener controlado más los cambios.
+    
 - ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones? 
+
     Una ética importante es que no se debería usar código copiado de otro lado.
+    
 - ¿Qué son los estándares de codificación?
+
     Son las normas y/o reglas establecidas por convención para que nuestro código sea legible, consistente y mantenible para otras personas. 
 
 
