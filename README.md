@@ -71,11 +71,9 @@
       https://github.com/kevinPedroYare/proyectoPersonal.git
     - Repositorio de .....
 - Proyecto Grupal Colaborativo
-
-      https://github.com/kevinPedroYare/ProyectoGrupal.git
-      
-      Parte Subida de Kevin Pedro Yare Chulunquia
-      
+    https://github.com/kevinPedroYare/ProyectoGrupal.git
+    
+      - Parte Subida de Kevin Pedro Yare Chulunquia
       ![imagen](https://user-images.githubusercontent.com/83080715/236689098-ac1736a5-6d71-4454-981e-52e05a1614e5.png)
 
 
