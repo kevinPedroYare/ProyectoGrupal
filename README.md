@@ -76,6 +76,7 @@
     - Repositorio de Anette Isabel Gallegos Condori
     
       ![imagen](https://user-images.githubusercontent.com/83080715/236703370-bd1e7249-44a5-49c7-9659-b6d304497b2b.png)
+      
       https://github.com/Anette-Gallegos/proyectoPersonal.git
 
 - Proyecto Grupal Colaborativo
